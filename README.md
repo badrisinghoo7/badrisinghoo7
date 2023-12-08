@@ -3,7 +3,7 @@ Full Stack Web Developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badri-vishal-singh-9299a91b3/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badri-vishal-singh-9299a91b3/) 
 [Portfolio](https://my-portfolio-7u78zstv0-badrisinghoo7.vercel.app/)
 
 
