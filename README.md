@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer
+Highly skilled full stack web developer proficient in JavaScript and experienced in the MERN stack. Strong problem-solving skills and attention to detail, combined with excellent communication and collaboration skills. Self-motivated and proactive, ready to collaborate with product managers, designers, and other developers to deliver functional and scalable web applications.
 
 
 ## 🌐 Socials:
