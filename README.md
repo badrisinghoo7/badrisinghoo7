@@ -1,5 +1,9 @@
-# 💫 About Me:
+### Hi 👋, I'm Badri Vishal Singh
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=600&lines=MERN+Developer;Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
+
+
+# 💫 About Me:
 Highly skilled full stack web developer proficient in JavaScript and experienced in the MERN stack. Strong problem-solving skills and attention to detail, combined with excellent communication and collaboration skills. Self-motivated and proactive, ready to collaborate with product managers, designers, and other developers to deliver functional and scalable web applications.
 
 
